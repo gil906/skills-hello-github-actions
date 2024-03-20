@@ -63,7 +63,9 @@ To get you started, we used actions to go ahead and made a branch and pull reque
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+#![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
